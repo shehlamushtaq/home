@@ -1,0 +1,17 @@
+.imgone{
+    width: 100%;
+}
+
+
+.heading{
+    font-size: 50px;
+}
+
+.lefttext{
+    justify-content: flex-end;
+}
+
+.picture-list {
+    flex: 1;
+    border: none;
+}
