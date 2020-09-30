@@ -2,3 +2,8 @@
         justify-content: flex-end;
 
 }
+
+.cancel-row-margin {
+        margin-left: 15px;
+        margin-right: 15px;
+}
