@@ -1,0 +1,47 @@
+.trColor{
+    background-color: #f4511e;
+}
+
+.h2{
+    transform: uppercase    ;
+    color: #81818;
+    margin-bottom: 30px;
+}
+
+
+.p{
+    font: 400 15px lato, sans-sarif;
+}
+
+
+
+.red200p{
+color: red;
+font-size: 200px !important;
+
+}
+
+.red50p {
+    color: red;
+    font-size: 50px !important;
+    
+    }
+    
+
+
+
+.align{
+  margin: auto;
+  text-align: center;
+}
+
+.backColour{
+    background-color:#f6f6f6;
+}
+
+
+.cardBorder{
+    border:solid 1px gray;
+
+}
+
