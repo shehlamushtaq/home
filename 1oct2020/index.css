@@ -1,17 +1,60 @@
-.trColor{
-    background-color: #f4511e;
+html {
+    scroll-behavior: smooth;
 }
+
+.trColor{
+    /* background-color: #f4511e; */
+  background-color: #6b6b47;
+}
+
+    .pricing{
+            border-color:solid 1px red;
+            color: honeydew;
+            }
+
+
+.fontSize{
+            font-size: px;
+            }
+
+    .pBorder{
+            border: none;
+            }  
+            
+    .pPadding {
+           padding: 40px;
+
+            }
+
+
+
 
 .h2{
     transform: uppercase    ;
-    color: #81818;
+    color: #818181;
     margin-bottom: 30px;
+    }
+
+#carouselExampleCaptions {
+    height: 150px;
+    width: 800px;
+}
+
+.carousel-indicators li {
+    background-color: #f4511e;
+
+}
+
+.carousel-inner {
+    padding-top: 55px;
 }
 
 
 .p{
-    font: 400 15px lato, sans-sarif;
+    font: 400 15px "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: rgb(53, 50, 50)
 }
+
 
 
 
@@ -27,7 +70,10 @@ font-size: 200px !important;
     
     }
     
-
+.text-red{
+            color: red;
+            text-decoration-thickness: 20px;
+        }
 
 
 .align{
@@ -45,3 +91,9 @@ font-size: 200px !important;
 
 }
 
+.contactFontColor{
+    color: grey;
+}
+ .cText{
+     text-align: left;
+ }
